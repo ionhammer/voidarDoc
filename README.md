@@ -13,7 +13,7 @@ Unity3d  32位 4.x--5.x
 三: 跨平台支持情况: 
 Windows ：支持 
 Ios：支持 
-Android：暂不支持（后续版本支持） 
+Android：暂不支持（后续版本支持） XXXX
 
 
 
